@@ -1,3 +1,5 @@
+// Input.swift
+
 class Input {
 	let opponentCard: Card
 	let dealerCards:  [Card]
