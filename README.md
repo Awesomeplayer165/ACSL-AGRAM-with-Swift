@@ -1,7 +1,5 @@
 # ACSL-AGRAM
 
-## About:
-
 ACSL Agram is a card game for 2 players, using the cards from a 36-card pack. The cards are numbered from 1 to 9 and are in the suits Clubs, Diamonds, Hearts and Spades.
 
 > Written in `Swift`. In the future, programs will be written in `Python` and `Swift`
