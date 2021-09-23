@@ -1,12 +1,16 @@
 # ACSL-AGRAM
 
-## PROBLEM:
+## About:
 
 ACSL Agram is a card game for 2 players, using the cards from a 36-card pack. The cards are numbered from 1 to 9 and are in the suits Clubs, Diamonds, Hearts and Spades.
 
-The dealer deals five cards to each player. The opponent player leads any card, playing it face up in the middle of the playing area.
+> Written in `Swift`. In the future, programs will be written in `Python` and `Swift`
 
-For this program the following strategy will be used to determine which card the dealer will play:
+## Problem:
+
+The dealer deals five cards to each player. The opponent player leads any card, playing it face up in the middle of the playing area. How can you find the card the dealer must play according to the strategy listed below
+
+## Strategy:
 - The dealer must play a card of the same suit if he can.
 - He plays the lowest card in that suit that is of a higher rank than the card the opponent played.
 - If he does not have such a card, he plays his lowest card in that suit. 
