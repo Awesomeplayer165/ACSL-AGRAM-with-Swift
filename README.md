@@ -20,3 +20,7 @@ Example: The eight of hearts is represented by 8, H.
 
 ## Output:
 For each input line print the card the dealer must play according to the strategy listed above. If no card can be played print NONE.
+
+## Created and Maintained by:
+
+[Jacob Trentini](https://github.com/Awesomeplayer165)
