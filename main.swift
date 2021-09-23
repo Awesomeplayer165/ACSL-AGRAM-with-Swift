@@ -76,7 +76,3 @@ func findDealerCards(with inputArray: [String]) -> [Card] {
 }
 
 let cards = getInput()
-
-for card in cards.dealerCards {
-	
-}
