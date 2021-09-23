@@ -26,3 +26,8 @@ For each input line print the card the dealer must play according to the strateg
 ## Created and Maintained by:
 
 [Jacob Trentini](https://github.com/Awesomeplayer165)
+
+
+## Actual PDF:
+
+https://github.com/Awesomeplayer165/ACSL-AGRAM/blob/2cae2e2ee6b37d5227dcd8bcfef664ca5a2f7989/AGRAM_1_jr.pdf
