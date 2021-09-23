@@ -6,33 +6,6 @@
 
 import Foundation
 
-enum Suits {
-	case clubs
-	case diamonds
-	case hearts
-	case spades
-}
-
-class Card {
-	let suit:   Suits
-	let number: Int
-
-	init(suit: Suits, number: Int) {
-		self.suit   = suit
-		self.number = number
-	}
-}
-
-class Input {
-	let opponentCard: Card
-	let dealerCards:  [Card]
-
-	init(opponentCard: Card, dealerCards: [Card]) {
-		self.opponentCard = opponentCard
-		self.dealerCards  = dealerCards
-	}
-}
-
 func getInput() -> Input {
 	print("Enter input: ", terminator: "")
 	let input = readLine()!
