@@ -2,7 +2,7 @@
 
 [ACSL-AGRAM](https://github.com/Awesomeplayer165/ACSL-AGRAM/blob/2cae2e2ee6b37d5227dcd8bcfef664ca5a2f7989/AGRAM_1_jr.pdf) is a card game for 2 players, using the cards from a 36-card pack. The cards are numbered from 1 to 9 and are in the suits Clubs, Diamonds, Hearts and Spades.
 
-> Written in `Swift` as practice for the ACSL competition. In the future, programs will be written in `Python` and `Swift`
+> Written in `Swift` as practice for the ACSL competition. In the future, programs will be written in `Python` AND `Swift`
 
 ## Problem:
 
